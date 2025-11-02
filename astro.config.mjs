@@ -8,5 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   site: 'https://chrysoslab.github.io',
-  base: '/website'
+  base: '/'
 });
